@@ -1,0 +1,7 @@
+# ignore all this .npz .png .csv and python cache
+*.npz
+*.png
+*.csv
+__pycache__/
+venv/
+
